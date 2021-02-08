@@ -1,4 +1,4 @@
 
 
-## *** This is purely for education purpose ***
+## *** Sadece eğitim/test amaçlıdır ***
 
